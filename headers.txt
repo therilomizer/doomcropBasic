@@ -33,7 +33,78 @@ __/\\\\\\\\\\\\__________/\\\\\____________/\\\\\_______/\\\\____________/\\\\__
         _\////////////__________\/////____________\/////_______\///______________\///________\/////////__\///________\///_______\/////_______\///______________
 </pre>
 
-NOT USED--
+headerOptions[3] PHByZSBzdHlsZT0iZm9udC1zaXplOjEuOHZ3Ij4NCg0KOjo6Ojo6Ojo6ICAgOjo6Ojo6OjogICA6Ojo6Ojo6OiAgOjo6OiAgICA6Ojo6ICAgOjo6Ojo6OjogIDo6Ojo6Ojo6OiAgIDo6Ojo6Ojo6ICA6Ojo6Ojo6OjogIA0KOis6ICAgIDorOiA6KzogICAgOis6IDorOiAgICA6KzogKzorOis6IDorOis6KyA6KzogICAgOis6IDorOiAgICA6KzogOis6ICAgIDorOiA6KzogICAgOis6IA0KKzorICAgICs6KyArOisgICAgKzorICs6KyAgICArOisgKzorICs6KzorICs6KyArOisgICAgICAgICs6KyAgICArOisgKzorICAgICs6KyArOisgICAgKzorIA0KKyMrICAgICs6KyArIysgICAgKzorICsjKyAgICArOisgKyMrICArOisgICsjKyArIysgICAgICAgICsjKys6KysjOiAgKyMrICAgICs6KyArIysrOisrIysgIA0KKyMrICAgICsjKyArIysgICAgKyMrICsjKyAgICArIysgKyMrICAgICAgICsjKyArIysgICAgICAgICsjKyAgICArIysgKyMrICAgICsjKyArIysgICAgICAgIA0KIysjICAgICMrIyAjKyMgICAgIysjICMrIyAgICAjKyMgIysjICAgICAgICMrIyAjKyMgICAgIysjICMrIyAgICAjKyMgIysjICAgICMrIyAjKyMgICAgICAgIA0KIyMjIyMjIyMjICAgIyMjIyMjIyMgICAjIyMjIyMjIyAgIyMjICAgICAgICMjIyAgIyMjIyMjIyMgICMjIyAgICAjIyMgICMjIyMjIyMjICAjIyMgICAgICAgIA0KPC9wcmU+
+<pre style="font-size:1.8vw">
+
+:::::::::   ::::::::   ::::::::  ::::    ::::   ::::::::  :::::::::   ::::::::  :::::::::  
+:+:    :+: :+:    :+: :+:    :+: +:+:+: :+:+:+ :+:    :+: :+:    :+: :+:    :+: :+:    :+: 
++:+    +:+ +:+    +:+ +:+    +:+ +:+ +:+:+ +:+ +:+        +:+    +:+ +:+    +:+ +:+    +:+ 
++#+    +:+ +#+    +:+ +#+    +:+ +#+  +:+  +#+ +#+        +#++:++#:  +#+    +:+ +#++:++#+  
++#+    +#+ +#+    +#+ +#+    +#+ +#+       +#+ +#+        +#+    +#+ +#+    +#+ +#+        
+#+#    #+# #+#    #+# #+#    #+# #+#       #+# #+#    #+# #+#    #+# #+#    #+# #+#        
+#########   ########   ########  ###       ###  ########  ###    ###  ########  ###        
+</pre>
+
+headerOptions[4] PHByZSBzdHlsZT0iZm9udC1zaXplOjF2dztmb250LXdlaWdodDpib2xkOyI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KICAgICAgIyMjIyMgIyMgICAgICAgICAgIyAjIyMgICAgICAgICAgIyAjIyMgICAgICAgICMjIyMjICAgIyMgICAgIyMgICAgICAjICMjIyAgICAgICAjIyMjIyAvIyMgICAgICAgIyAjIyMgICAgICAgICAjIyMjIyAjIyAgICANCiAgIC8jIyMjIyAgLyMjICAgICAgICAvICAvIyMjICAgICAgICAvICAvIyMjICAgICAjIyMjIyMgIC8jIyMjICMjIyMjICAgIC8gIC8jIyMgIC8gIyMjIyMjICAvICMjICAgICAvICAvIyMjICAgICAgIyMjIyMjICAvIyMjICAgDQogLy8gICAgLyAgLyAjIyMgICAgICAvICAvICAjIyMgICAgICAvICAvICAjIyMgICAvIyAgIC8gIC8gICMjIyMjICMjIyMjIC8gIC8gICMjIy8gLyMgICAvICAvICAjIyAgICAvICAvICAjIyMgICAgLyMgICAvICAvICAjIyMgIA0KLyAgICAgLyAgLyAgICMjIyAgICAvICAjIyAgICMjIyAgICAvICAjIyAgICMjIyAvICAgIC8gIC8gICAjICMjICAjICMjIC8gICMjICAgIyMgLyAgICAvICAvICAgIyMgICAvICAjIyAgICMjIyAgLyAgICAvICAvICAgICMjIyANCiAgICAgLyAgLyAgICAgIyMjICAvICAjIyMgICAgIyMjICAvICAjIyMgICAgIyMjICAgIC8gIC8gICAgIyAgICAgIyAgIC8gICMjIyAgICAgICAgICAvICAvICAgIC8gICAvICAjIyMgICAgIyMjICAgICAvICAvICAgICAgIyMgDQogICAgIyMgIyMgICAgICAjIyAjIyAgICMjICAgICAjIyAjIyAgICMjICAgICAjIyAgICMjICMjICAgICMgICAgICMgICMjICAgIyMgICAgICAgICAjIyAjIyAgIC8gICAjIyAgICMjICAgICAjIyAgICAjIyAjIyAgICAgICMjIA0KICAgICMjICMjICAgICAgIyMgIyMgICAjIyAgICAgIyMgIyMgICAjIyAgICAgIyMgICAjIyAjIyAgICAjICAgICAjICAjIyAgICMjICAgICAgICAgIyMgIyMgIC8gICAgIyMgICAjIyAgICAgIyMgICAgIyMgIyMgICAgICAjIyANCiAgICAjIyAjIyAgICAgICMjICMjICAgIyMgICAgICMjICMjICAgIyMgICAgICMjICAgIyMgIyMgICAgIyAgICAgIyAgIyMgICAjIyAgICAgICAgICMjICMjIy8gICAgICMjICAgIyMgICAgICMjICAvIyMjICMjICAgICAgLyAgDQogICAgIyMgIyMgICAgICAjIyAjIyAgICMjICAgICAjIyAjIyAgICMjICAgICAjIyAgICMjICMjICAgICMgICAgICMgICMjICAgIyMgICAgICAgICAjIyAjIyAgIyMjICAjIyAgICMjICAgICAjIyAvICMjIyAjIyAgICAgLyAgIA0KICAgICMjICMjICAgICAgIyMgIyMgICAjIyAgICAgIyMgIyMgICAjIyAgICAgIyMgICAjIyAjIyAgICAjICAgICAjIyAjIyAgICMjICAgICAgICAgIyMgIyMgICAgIyMgIyMgICAjIyAgICAgIyMgICAgIyMgIyMjIyMjLyAgICANCiAgICAjICAjIyAgICAgICMjICAjIyAgIyMgICAgICMjICAjIyAgIyMgICAgICMjICAgIyAgIyMgICAgIyAgICAgIyMgICMjICAjIyAgICAgICAgICMgICMjICAgICMjICAjIyAgIyMgICAgICMjICAgICMjICMjIyMjIyAgICAgDQogICAgICAgLyAgICAgICAvICAgICMjICMgICAgICAvICAgICMjICMgICAgICAvICAgICAgIC8gICAgICMgICAgICAjIyAgIyMgIyAgICAgIC8gICAgICAvICAgICAjIyAgICMjICMgICAgICAvICAgICAjIyAjIyAgICAgICAgIA0KICAvIyMjLyAgICAgICAvICAgICAgIyMjICAgICAvICAgICAgIyMjICAgICAvICAgIC8jIy8gICAgICAjICAgICAgIyMgICAjIyMgICAgIC8gICAvIyMvICAgICAgIyMjICAgIyMjICAgICAvICAgICAgIyMgIyMgICAgICAgICANCiAvICAgIyMjIyMjIyMvICAgICAgICAjIyMjIyMvICAgICAgICAjIyMjIyMvICAgIC8gICMjIyMjICAgICAgICAgICAjIyAgICMjIyMjIy8gICAvICAjIyMjICAgICMjICAgICAjIyMjIyMvICAgICAgICMjICMjICAgICAgICAgDQovICAgICAgICMjIyMgICAgICAgICAgICAjIyMgICAgICAgICAgICAjIyMgICAgIC8gICAgICMjICAgICAgICAgICAgICAgICAgICMjIyAgICAvICAgICMjICAgICAjICAgICAgICAjIyMgICAgIyMgICAjIyAjIyAgICAgICAgIA0KIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgIyMjICAgIyAgLyAgICAgICAgICANCiAjIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIyAgICAgICAgICAgICAgICAgICAgICAgICAjIyMgICAgLyAgICAgICAgICAgDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMjIyMjLyAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMjIyAgICAgICAgICAgICANCg0KPC9wcmU+
+<pre style="font-size:1vw;font-weight:bold;">
+                                                                                                                                
+      ##### ##          # ###          # ###        #####   ##    ##      # ###       ##### /##       # ###         ##### ##    
+   /#####  /##        /  /###        /  /###     ######  /#### #####    /  /###  / ######  / ##     /  /###      ######  /###   
+ //    /  / ###      /  /  ###      /  /  ###   /#   /  /  ##### ##### /  /  ###/ /#   /  /  ##    /  /  ###    /#   /  /  ###  
+/     /  /   ###    /  ##   ###    /  ##   ### /    /  /   # ##  # ## /  ##   ## /    /  /   ##   /  ##   ###  /    /  /    ### 
+     /  /     ###  /  ###    ###  /  ###    ###    /  /    #     #   /  ###          /  /    /   /  ###    ###     /  /      ## 
+    ## ##      ## ##   ##     ## ##   ##     ##   ## ##    #     #  ##   ##         ## ##   /   ##   ##     ##    ## ##      ## 
+    ## ##      ## ##   ##     ## ##   ##     ##   ## ##    #     #  ##   ##         ## ##  /    ##   ##     ##    ## ##      ## 
+    ## ##      ## ##   ##     ## ##   ##     ##   ## ##    #     #  ##   ##         ## ###/     ##   ##     ##  /### ##      /  
+    ## ##      ## ##   ##     ## ##   ##     ##   ## ##    #     #  ##   ##         ## ##  ###  ##   ##     ## / ### ##     /   
+    ## ##      ## ##   ##     ## ##   ##     ##   ## ##    #     ## ##   ##         ## ##    ## ##   ##     ##    ## ######/    
+    #  ##      ##  ##  ##     ##  ##  ##     ##   #  ##    #     ##  ##  ##         #  ##    ##  ##  ##     ##    ## ######     
+       /       /    ## #      /    ## #      /       /     #      ##  ## #      /      /     ##   ## #      /     ## ##         
+  /###/       /      ###     /      ###     /    /##/      #      ##   ###     /   /##/      ###   ###     /      ## ##         
+ /   ########/        ######/        ######/    /  #####           ##   ######/   /  ####    ##     ######/       ## ##         
+/       ####            ###            ###     /     ##                   ###    /    ##     #        ###    ##   ## ##         
+#                                              #                                 #                          ###   #  /          
+ ##                                             ##                                ##                         ###    /           
+                                                                                                              #####/            
+                                                                                                                ###             
+
+</pre>
+
+headerOptions[5] PHByZSBzdHlsZT0iZm9udC1zaXplOjF2dzsiPg0KODg4ODg4OGIuICAgLmQ4ODg4OGIuICAgLmQ4ODg4OGIuICA4ODhiICAgICBkODg4ICAuZDg4ODhiLiAgODg4ODg4OGIuICAgLmQ4ODg4OGIuICA4ODg4ODg4Yi4gIA0KODg4ICAiWTg4YiBkODhQIiAiWTg4YiBkODhQIiAiWTg4YiA4ODg4YiAgIGQ4ODg4IGQ4OFAgIFk4OGIgODg4ICAgWTg4YiBkODhQIiAiWTg4YiA4ODggICBZODhiIA0KODg4ICAgIDg4OCA4ODggICAgIDg4OCA4ODggICAgIDg4OCA4ODg4OGIuZDg4ODg4IDg4OCAgICA4ODggODg4ICAgIDg4OCA4ODggICAgIDg4OCA4ODggICAgODg4IA0KODg4ICAgIDg4OCA4ODggICAgIDg4OCA4ODggICAgIDg4OCA4ODhZODg4ODhQODg4IDg4OCAgICAgICAgODg4ICAgZDg4UCA4ODggICAgIDg4OCA4ODggICBkODhQIA0KODg4ICAgIDg4OCA4ODggICAgIDg4OCA4ODggICAgIDg4OCA4ODggWTg4OFAgODg4IDg4OCAgICAgICAgODg4ODg4OFAiICA4ODggICAgIDg4OCA4ODg4ODg4UCIgIA0KODg4ICAgIDg4OCA4ODggICAgIDg4OCA4ODggICAgIDg4OCA4ODggIFk4UCAgODg4IDg4OCAgICA4ODggODg4IFQ4OGIgICA4ODggICAgIDg4OCA4ODggICAgICAgIA0KODg4ICAuZDg4UCBZODhiLiAuZDg4UCBZODhiLiAuZDg4UCA4ODggICAiICAgODg4IFk4OGIgIGQ4OFAgODg4ICBUODhiICBZODhiLiAuZDg4UCA4ODggICAgICAgIA0KODg4ODg4OFAiICAgIlk4ODg4OFAiICAgIlk4ODg4OFAiICA4ODggICAgICAgODg4ICAiWTg4ODhQIiAgODg4ICAgVDg4YiAgIlk4ODg4OFAiICA4ODggICAgICAgIA0KPC9wcmU+
+<pre style="font-size:1vw;">
+8888888b.   .d88888b.   .d88888b.  888b     d888  .d8888b.  8888888b.   .d88888b.  8888888b.  
+888  "Y88b d88P" "Y88b d88P" "Y88b 8888b   d8888 d88P  Y88b 888   Y88b d88P" "Y88b 888   Y88b 
+888    888 888     888 888     888 88888b.d88888 888    888 888    888 888     888 888    888 
+888    888 888     888 888     888 888Y88888P888 888        888   d88P 888     888 888   d88P 
+888    888 888     888 888     888 888 Y888P 888 888        8888888P"  888     888 8888888P"  
+888    888 888     888 888     888 888  Y8P  888 888    888 888 T88b   888     888 888        
+888  .d88P Y88b. .d88P Y88b. .d88P 888   "   888 Y88b  d88P 888  T88b  Y88b. .d88P 888        
+8888888P"   "Y88888P"   "Y88888P"  888       888  "Y8888P"  888   T88b  "Y88888P"  888        
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--NOT USED--
 headerOptions[] PHByZSBzdHlsZT0idGV4dC1zaXplOiAyZW07Ij4NCiAgICAgICAgICAgICAgICAgLi0nJyctLiAgICAgICAgLi0nJyctLiAgICAgICAgICAgICAgICAgICAgICAgICAgIF8uLi5fICAgICAgICAgICAgICAgIC4tJycnLS4gICAgICAgICAgICAgICAgICAgICAgICAgICANCl9fX19fX18gICAgICAgICAnICAgXyAgICBcICAgICAnICAgXyAgICBcICAgICAgICAgICAgICAgICAgICAgIC4tJ18uLi5fJycuICAgICAgICAgICAgJyAgIF8gICAgXCAgICAgICAgICAgICAgICAgICAgICAgICANClwgIF9fXyBgJy4gICAgLyAgIC9gICcuICAgXCAgLyAgIC9gICcuICAgXCAgX18gIF9fICAgX19fICAgICAuJyAuJyAgICAgICcuXCAgICAgICAgIC8gICAvYCAnLiAgIFxfX19fX19fX18gICBfLi4uLl8gICAgICANCiAnIHwtLS5cICBcICAuICAgfCAgICAgXCAgJyAuICAgfCAgICAgXCAgJyB8ICB8LyAgYC4nICAgYC4gIC8gLicgICAgICAgICAgICAgICAgICAgLiAgIHwgICAgIFwgICdcICAgICAgICB8LicgICAgICAnLS4gICANCiB8IHwgICAgXCAgJyB8ICAgJyAgICAgIHwgICd8ICAgJyAgICAgIHwgICd8ICAgLi0uICAuLS4gICAnLiAnICAgICAgICAgICAgIC4tLC4tLS4gfCAgICcgICAgICB8ICAnXCAgICAgICAgLidgYGAnLiAgICAnLiANCiB8IHwgICAgIHwgICdcICAgIFwgICAgIC8gLyBcICAgIFwgICAgIC8gLyB8ICB8ICB8ICB8ICB8ICB8fCB8ICAgICAgICAgICAgIHwgIC4tLiB8XCAgICBcICAgICAvIC8gIFwgICAgICB8ICAgICAgIFwgICAgIFwNCiB8IHwgICAgIHwgIHwgYC4gICBgIC4uJyAvICAgYC4gICBgIC4uJyAvICB8ICB8ICB8ICB8ICB8ICB8fCB8ICAgICAgICAgICAgIHwgfCAgfCB8IGAuICAgYCAuLicgLyAgICB8ICAgICB8ICAgICAgICB8ICAgIHwNCiB8IHwgICAgICcgLicgICAgJy0uLi4tJ2AgICAgICAgJy0uLi4tJ2AgICB8ICB8ICB8ICB8ICB8ICB8LiAnICAgICAgICAgICAgIHwgfCAgfCB8ICAgICctLi4uLSdgICAgICB8ICAgICAgXCAgICAgIC8gICAgLiANCiB8IHxfX18uJyAvJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICB8ICB8ICB8ICB8ICB8IFwgJy4gICAgICAgICAgLnwgfCAgJy0gICAgICAgICAgICAgICAgICB8ICAgICB8XGAnLS4tJyAgIC4nICANCi9fX19fX19fLicvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8X198ICB8X198ICB8X198ICAnLiBgLl9fX19fLi0nL3wgfCAgICAgICAgICAgICAgICAgICAgICB8ICAgICB8ICctLi4uLi0nYCAgICANClxfX19fX19ffC8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGAtLl9fX19fXyAvIHwgfCAgICAgICAgICAgICAgICAgICAgIC4nICAgICAnLiAgICAgICAgICAgICANCi8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGAgIHxffCAgICAgICAgICAgICAgICAgICAnLS0tLS0tLS0tLS0nIA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KPC9wcmU+
 <pre style="font-size: 2em;">
                  .-'''-.        .-'''-.                           _..._                .-'''-.                           
